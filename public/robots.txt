@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coffeeland.vercel.app/sitemap.xml
